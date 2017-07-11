@@ -16,10 +16,6 @@ FOUNDATION_EXPORT const unsigned char FireDataVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <FireData/PublicHeader.h>
 
-//#import <FireData/FireDaraManager.h>
-//#import <FireData/FireDaraApp.h>
-
 #import "FireDataManager.h"
-#import "FireDataJSHelper.h"
 
 
