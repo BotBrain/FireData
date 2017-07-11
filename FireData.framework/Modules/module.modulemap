@@ -1,0 +1,6 @@
+framework module FireData {
+  umbrella header "FireData.h"
+
+  export *
+  module * { export * }
+}
