@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "FireData"
+  s.name         = "BotFireData"
   s.version      = "0.0.1"
   s.summary      = "BotBrain 日志统计SDK，仅内部使用"
   s.license = {
