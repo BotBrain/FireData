@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BotFireData"
-  s.version      = "0.0.2"
+  s.version      = "0.1.0"
   s.summary      = "BotBrain 日志统计SDK，仅内部使用"
   s.license = {
     :type => "Copyright",
