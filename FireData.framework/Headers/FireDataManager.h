@@ -26,7 +26,7 @@
 @property (nonatomic, assign) BOOL enableCrashReport;
 /** 是否收集地理位置， 默认为NO，如果设置为YES，请在Info.plist文件中添加相应的描述信息 */
 @property (nonatomic, assign) BOOL enableLocationReport;
-/** check 本地缓存日志间隔，默认为15分钟 */
+/** check 本地缓存日志间隔，默认为 10 分钟 */
 @property (nonatomic, assign) NSInteger sendTimeInterval;
 /** 会话时间间隔，默认为10分钟 */
 @property (nonatomic, assign) NSInteger sessionInterval;
